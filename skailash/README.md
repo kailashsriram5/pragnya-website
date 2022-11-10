@@ -9,6 +9,7 @@ void helloguys(){
 - I am a Techenophile. I am into **AR/VR**. I am also interested to learn new technologies.
 - My Hobbies are watching F1.  
 - I am part of CXR,I&t community, and Pragnyaclub:)
+- I live in Vizag.
 ---  
 ![photo](my.jpg)
 
